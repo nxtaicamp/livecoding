@@ -5,6 +5,6 @@ Notebooks for lectures
 one-hot encoding, and TF-IDF
 - `linear_regression.ipynb`: Lecture on linear regression from scratch, includes MSE as a loss function, gradient 
 descent for two parameters, and supporting functions.
-- `mlp.ipynb`: Lecture on our first full neural network with PyTorch, includes using a diabetes dataset, binary 
+- `mlp.ipynb`: Lecture on our first full neural network (MLP) with PyTorch, includes using a diabetes dataset, binary 
 cross-entropy for loss, and Adam for an optimizer. Since it's basic, using only 3 fully-connected layers, it's accuracy
 is at 80%.
